@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "motoko-benchmarks-generation": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/benchmarks-generation/SKILL.md",
+      "computedHash": "297a1c8b21d7b944f2046a5fd92cfc2ea9f7da5a739a60eb3d65e22d26188ff8"
+    },
+    "motoko-compiler-warnings-fixes": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fix-compiler-warnings/SKILL.md",
+      "computedHash": "03c925dd2b05b5f677a4dd8fb330709757e860d83d0d6d8d5786724c3d1ee4d4"
+    },
+    "motoko-core-code-improvements": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/code-improvements/SKILL.md",
+      "computedHash": "2f4e7af470ef91ca3a0507be91e40898dfb45fdd5ea50dfce989b121bd0500bb"
+    },
+    "motoko-doc-strings": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/doc-strings/SKILL.md",
+      "computedHash": "94037db6af196ee9386d069960157e0295100848d1038a46efe6169defddb373"
+    },
+    "motoko-general-style-guidelines": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/motoko-general-style-guidelines/SKILL.md",
+      "computedHash": "868da8a2691396ae08232214dbb23b752f3c7734de75c961f57de6d359ca9861"
+    },
+    "motoko-github-ci-workflow": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/motoko-github-ci-workflow/SKILL.md",
+      "computedHash": "f5c243e265101e5c09cbaa32601347088ce4afc9e5a0496a8289c58623d909f5"
+    },
+    "motoko-mops-package-maintenance": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/mops-package-maintenance/SKILL.md",
+      "computedHash": "c2d8550fda832dfdead9aaace5c58258e4c784fcc9585df3bde2c6f057a9479c"
+    },
+    "motoko-performance-optimizations": {
+      "source": "research-ag/motoko-skills",
+      "sourceType": "github",
+      "skillPath": "skills/performance-optimizations/SKILL.md",
+      "computedHash": "2c554d66727319bc38d94150a33e4bfd2922dcf957efe68f12c9df08dc21f8f4"
+    }
+  }
+}
