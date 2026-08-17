@@ -1,12 +1,6 @@
 {
   "version": 1,
   "skills": {
-    "motoko-benchmarks-generation": {
-      "source": "research-ag/motoko-skills",
-      "sourceType": "github",
-      "skillPath": "skills/benchmarks-generation/SKILL.md",
-      "computedHash": "297a1c8b21d7b944f2046a5fd92cfc2ea9f7da5a739a60eb3d65e22d26188ff8"
-    },
     "motoko-compiler-warnings-fixes": {
       "source": "research-ag/motoko-skills",
       "sourceType": "github",

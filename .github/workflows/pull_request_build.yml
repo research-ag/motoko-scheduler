@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    name: Tests and Benchmarks
+    name: Tests
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -38,9 +38,6 @@ jobs:
 
       - name: Run tests
         run: mops test
-
-      - name: Run benchmarks
-        run: mops bench --replica pocket-ic
 
   fmt:
     name: Formatting Check

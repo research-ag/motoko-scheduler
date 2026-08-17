@@ -1,9 +1,9 @@
 [package]
-name = ""
+name = "motoko-scheduler"
 version = "0.0.1"
-description = ""
-repository = "https://github.com/research-ag/..."
-keywords = [ ]
+description = "Epoch-aligned recurring scheduler: a recurring timer whose ticks are aligned to the Unix epoch (e.g. every midnight, or the 30th second of every minute)."
+repository = "https://github.com/research-ag/motoko-scheduler"
+keywords = [ "scheduler", "timer", "recurring", "cron", "epoch" ]
 license = "Apache-2.0"
 
 [dependencies]
@@ -11,7 +11,6 @@ core = "2.6.1"
 
 [dev-dependencies]
 test = "2.1.2"
-bench-helper = "0.0.3"
 
 [toolchain]
 moc = "1.14.0"
